@@ -1,0 +1,1 @@
+document.location.href="https://github.com/seva3125"
